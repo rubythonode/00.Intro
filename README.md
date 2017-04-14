@@ -23,7 +23,7 @@
 
  자료들은 Github에 올려져 있고 pull 받으실수 있으며, npm install 명령어를 통해 패키지를 install한 후 실행해볼 수 있습니다.
 
-]http://github.com/cionman](http://github.com/cionman)
+[http://github.com/cionman](http://github.com/cionman)
 
 
 
